@@ -53,6 +53,8 @@ Que es Git y GitHub?
 - git  branch -d NR- para eliminar una rama<br>
 - git checkout NR- para cambiar de rama
 
+![first image](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg "Git Basico")
+
 **Comandos para trabajar con GitHub**
 
  - Para un nuevo repositorio<br>
@@ -66,3 +68,15 @@ Que es Git y GitHub?
 
 - Uno que ya existe subirlo a la nube<br>
 - - git remote add origin (Tu link del rep.)<br>
+
+![first image](https://i.pinimg.com/originals/e5/5b/5f/e55b5febbeb023f3cea15ce4e015f8c0.jpg "Github comandos")
+
+<P>
+
+<Conclusión>
+
+<p style="text-align: justify">Git y Github han vuelto el trabajo en equipo más intuitivo y práctico para ciertas personas. Gracias a estas aplicaciones, una persona puede empezar a hacerse ideas claras de cómo se trabaja en grupos con estas herramientas, las cuales ofrecen una variedad de diferentes tipos de flujo de trabajo y estos pueden usarse dependiendo a las preferencias del equipo.</p>
+
+<Bibliografía>
+
+<p style="text-align: justify">https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores</p>
