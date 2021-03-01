@@ -28,6 +28,11 @@ Que es Git y GitHub?
 
 <p style="text-align: justify">Gracias a Git y Github, una persona puede empzar a desarrolar un cierto tipo de mapa mental del como se trabaja en quipos usando estas herramientas. Como el hecho de que la organizacion es algo importante tanto como saber quien va a hacer cada cosa, como por ejemplo, quien creara el codigo de un reloj.</p>
 <p style="text-align: justify">Git nos ayudaria a entender como funcianario un desarrollo con codigos.</p>
-<p style="text-align: justify">Esto tambien puede venir a que uno puede aprender sobre los diferentes tipos de flujo de trabajo, que son formulas que uno puede utilizar para hacer un trabajo mas uniforme.</p>
+<p style="text-align: justify">Esto tambien puede venir a que uno puede aprender sobre los diferentes tipos de flujo de trabajo, que son formulas que uno puede utilizar para hacer un trabajo mas uniforme.<p>Algunos de estos flujos de trabajos mas utilizados son:<br> 
+
+1. Git flow
+2. GitHub flow
+3. Master only workflow
+4. Trunk based Flow
 <p style="text-align: justify">Mientras que github seria el lugar donde cada uno de esos codigos se almacenria para aceptar o rechazar. El lugar donde un equipo de trabajo puede aprender de los metodos de los demas, sobre la organizacion de un trabajo, que es vital, y sobre respetar lo que hacen los demas.
 </p>
