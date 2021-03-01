@@ -36,6 +36,7 @@ Que es Git y GitHub?
 3. Master only workflow
 4. Trunk based Flow
 <p style="text-align: justify">Mientras que github seria el lugar donde cada uno de esos codigos se almacenria para aceptar o rechazar. El lugar donde un equipo de trabajo puede aprender de los metodos de los demas, sobre la organizacion de un trabajo, que es vital, y sobre respetar lo que hacen los demas.
+
 </p>
 
 **Comandos principales Git**
