@@ -36,4 +36,33 @@ Que es Git y GitHub?
 3. Master only workflow
 4. Trunk based Flow
 <p style="text-align: justify">Mientras que github seria el lugar donde cada uno de esos codigos se almacenria para aceptar o rechazar. El lugar donde un equipo de trabajo puede aprender de los metodos de los demas, sobre la organizacion de un trabajo, que es vital, y sobre respetar lo que hacen los demas.
+
 </p>
+
+**Comandos principales Git**
+- Git config --list (para ver la conf)<br>
+- Git config --Global user.name/email (indentificarse)<br>
+- Ls- listar archivos (dir CDM)<br>
+- Clear(cls CMD)<br>
+- mkdir - para crear una carpeta(CMD)<br>
+- cd ..- para salir de una carpeta<br>
+- Git Innit (iniciar un repositorio .Git)<br>
+- Git clone (clonar un repositoro)<br>
+- Git branch- para ver las ramas<br>
+- Git merge- para unir la rama al master <br>(tienes que estar en el master)
+- git  branch -d NR- para eliminar una rama<br>
+- git checkout NR- para cambiar de rama
+
+**Comandos para trabajar con GitHub**
+
+ - Para un nuevo repositorio<br>
+ 1. git init<br>
+2. git add README.md<br>
+3. git commit -m "first commit"<br>
+4.  git branch -M master<br>
+5. git remote add origin (Tu link del rep.)<br>
+6. git push -u origin master<br>
+7. Git remote set -url origin- por si se pone el link mal<br>
+
+- Uno que ya existe subirlo a la nube<br>
+- - git remote add origin (Tu link del rep.)<br>
