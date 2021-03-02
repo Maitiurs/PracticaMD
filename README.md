@@ -81,4 +81,4 @@ Que es Git y GitHub?
 
 <p style="text-align: justify">https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores</p>
 
-<p style="text-align: justify">https://www.pragma.com.co/academia/lecciones/flujos-de-trabajo-en-git</p>
+<p style="text-align: justify">https://git-scm.com/book/es/v2 Git-en-entornos-distribuidos-Flujos-de-trabajo-distribuidos</p>
