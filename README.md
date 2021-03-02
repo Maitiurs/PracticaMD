@@ -10,10 +10,12 @@
 
 <H2 align="center"><b>Tabla de contenido</b></H2>
 
-1. Introduccion
+1. Introducción
 2. Git y GitHub
 3. Flujos de trabajo
 4. Codigos utilizados
+5. Conclusión
+6. Bibliografía
 
 <Introduccion>
 
@@ -36,7 +38,6 @@ Que es Git y GitHub?
 3. Master only workflow
 4. Trunk based Flow
 <p style="text-align: justify">Mientras que github seria el lugar donde cada uno de esos codigos se almacenria para aceptar o rechazar. El lugar donde un equipo de trabajo puede aprender de los metodos de los demas, sobre la organizacion de un trabajo, que es vital, y sobre respetar lo que hacen los demas.
-
 </p>
 
 **Comandos principales Git**
@@ -53,8 +54,6 @@ Que es Git y GitHub?
 - git  branch -d NR- para eliminar una rama<br>
 - git checkout NR- para cambiar de rama
 
-![first image](https://edteam-media.s3.amazonaws.com/community/original/fc43b465-dbfb-465e-9705-b38d230452fc.jpg "Git Basico")
-
 **Comandos para trabajar con GitHub**
 
  - Para un nuevo repositorio<br>
@@ -68,17 +67,3 @@ Que es Git y GitHub?
 
 - Uno que ya existe subirlo a la nube<br>
 - - git remote add origin (Tu link del rep.)<br>
-
-![first image](https://i.pinimg.com/originals/e5/5b/5f/e55b5febbeb023f3cea15ce4e015f8c0.jpg "Github comandos")
-
-<P>
-
-## **Conclusión**
-
-<p style="text-align: justify">Git y Github han vuelto el trabajo en equipo más intuitivo y práctico para ciertas personas. Gracias a estas aplicaciones, una persona puede empezar a hacerse ideas claras de cómo se trabaja en grupos con estas herramientas, las cuales ofrecen una variedad de diferentes tipos de flujo de trabajo y estos pueden usarse dependiendo a las preferencias del equipo.</p>
-
-## **Bibliografía--**
-
-<p style="text-align: justify">https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores</p>
-
-<p style="text-align: justify">https://git-scm.com/book/es/v2 Git-en-entornos-distribuidos-Flujos-de-trabajo-distribuidos</p>
