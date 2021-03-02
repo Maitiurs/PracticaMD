@@ -77,8 +77,8 @@ Que es Git y GitHub?
 
 <p style="text-align: justify">Git y Github han vuelto el trabajo en equipo más intuitivo y práctico para ciertas personas. Gracias a estas aplicaciones, una persona puede empezar a hacerse ideas claras de cómo se trabaja en grupos con estas herramientas, las cuales ofrecen una variedad de diferentes tipos de flujo de trabajo y estos pueden usarse dependiendo a las preferencias del equipo.</p>
 
-<Bibliografía>
+## **Bibliografía--**
 
 <p style="text-align: justify">https://www.xataka.com/basics/que-github-que-que-le-ofrece-a-desarrolladores</p>
 
-<p style="text-align: justify">https://www.pragma.com.co/academia/lecciones/flujos-de-trabajo-en-git</p>
+<p style="text-align: justify">https://git-scm.com/book/es/v2 Git-en-entornos-distribuidos-Flujos-de-trabajo-distribuidos</p>
