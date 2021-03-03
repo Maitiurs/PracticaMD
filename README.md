@@ -5,7 +5,7 @@
 **Participantes**
 
 - Maité Mercedes Valentín
-- Leslie de la Rosa Silerio
+- Leslie de la Rosa Silverio
 - Evans Jimenez Castillo
 
 <H2 align="center"><b>Tabla de contenido</b></H2>
